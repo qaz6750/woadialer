@@ -430,6 +430,9 @@
     <PRIResource Include="Strings\de-DE\Resources.resw" />
   </ItemGroup>
   <ItemGroup>
+    <PRIResource Include="Strings\zh-CN\Resources.resw" />
+  </ItemGroup>
+  <ItemGroup>
     <Content Include="Assets\FullMDL2Assets.ttf" />
   </ItemGroup>
   <ItemGroup>
